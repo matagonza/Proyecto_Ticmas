@@ -45,7 +45,7 @@ a:hover {
 }
 
 main {
-    font-family: sans-serif;
+    
     width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -72,6 +72,7 @@ main {
 
 p {
     font-weight: bold;
+    
 }
 
 .iconos img {
@@ -101,8 +102,9 @@ p {
 }
 
 h4 {
-
+    
     text-decoration: underline;
+    font-size: 2rem;
 
 }
 
