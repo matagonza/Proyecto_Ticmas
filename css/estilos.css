@@ -117,6 +117,41 @@ h4 {
     margin-bottom: 50px;
 }
 
+.saludo {
+    max-width: 768px;
+
+    background-color: lightgray;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 3px black;
+    color: black;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.saludo h1 {
+    font-size: 3rem;
+    margin-top: 0;
+
+}
+
+.saludo h2 {
+    margin-top: 0;
+}
+
+.saludo button {
+    padding: 1rem;
+    font-weight: bold;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    box-shadow: 1px 1px 1px black;
+    cursor: pointer;
+
+}
+
 
 @media (max-width:700px) {
     header {
