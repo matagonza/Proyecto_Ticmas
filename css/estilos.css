@@ -119,7 +119,6 @@ h4 {
 
 .saludo {
     max-width: 768px;
-
     background-color: lightgray;
     padding: 2rem;
     border-radius: 1rem;
@@ -127,6 +126,8 @@ h4 {
     color: black;
     text-align: center;
     margin-bottom: 50px;
+    
+
 
 }
 
